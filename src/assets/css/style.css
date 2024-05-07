@@ -1,0 +1,9 @@
+.content {
+	display: flex;
+	margin-left: 260px;
+	font-size: 1rem;
+}
+label{
+    font-size: 12px;
+    color: darkslategrey;
+}
